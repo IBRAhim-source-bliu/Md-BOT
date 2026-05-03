@@ -1,0 +1,9 @@
+{
+  "name": "modsxtools-md",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "axios": "latest"
+  }
+}
